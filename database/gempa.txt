@@ -1,0 +1,36 @@
+Informasi Gempa
+
+Tanggal: 08 Mar 2024
+Jam: 16:11:48 WIB
+Tenggat Waktu: 2024-03-08T09:11:48+00:00
+Koordinat: 5.73,126.88
+Lintang: 5.73 LU
+Bujur: 126.88 BT
+Kedalaman: 141 km km
+Lokasi: Pusat gempa berada di laut 110 Km Baratlaut Pulau Karatung
+Magnitudo: 6.0
+Potensi: Gempa ini dirasakan untuk diteruskan pada masyarakat
+Dirasakan: III Talaud
+Shakemap: 20240308161148.mmi.jpg
+URL Gempa: https://data.bmkg.go.id/DataMKG/TEWS/20240308161148.mmi.jpg
+
+==========================================
+
+Informasi Gempa 2024-03-09 09:06:48 
+
+Tanggal: 08 Mar 2024
+Jam: 16:11:48 WIB
+Tenggat Waktu: 2024-03-08T09:11:48+00:00
+Koordinat: 5.73,126.88
+Lintang: 5.73 LU
+Bujur: 126.88 BT
+Kedalaman: 141 km km
+Lokasi: Pusat gempa berada di laut 110 Km Baratlaut Pulau Karatung
+Magnitudo: 6.0
+Potensi: Gempa ini dirasakan untuk diteruskan pada masyarakat
+Dirasakan: III Talaud
+Shakemap: 20240308161148.mmi.jpg
+URL Gempa: https://data.bmkg.go.id/DataMKG/TEWS/20240308161148.mmi.jpg
+
+==========================================
+
